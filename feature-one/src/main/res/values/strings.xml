@@ -1,0 +1,5 @@
+<resources>
+	<string name = "show_time">Show times:</string>
+	<string name = "filter">Filter</string>
+	<string name = "date">Date</string>
+</resources>
